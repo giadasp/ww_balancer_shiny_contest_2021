@@ -15,16 +15,14 @@ The roles used in the default dataset are taken from the original game
 The balancer can be adapted to any scenario in a deception game such as
 Mafia, or Avalon.
 
-Click Generate! to generate a list of 10 balanced villages.
+Click Generate! to generate (likely) 10 new balanced villages.
 
-In R run:
+In `R` run:
 
 ```
 library(shiny)
-runGitHub( "ww_balancer", "giadasp")
+runGitHub( "ww_balancer_shiny_contest_2021", "giadasp")
 ```
-
-or go to: <https://giadaspaccapanico.shinyapps.io/ww_balancer/>
 
 ## Customizable settings:
 
