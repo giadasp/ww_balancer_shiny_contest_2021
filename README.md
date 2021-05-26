@@ -1,10 +1,3 @@
----
-title: "ww_balancer"
-header-includes:
-   - \usepackage{amsmath}
-output: html_document
----
-
 # WW_balancer
 
 A Shiny app for generating balanced villages for deception games.
