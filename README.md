@@ -23,8 +23,6 @@ runGitHub( "ww_balancer_shiny_contest_2021", "giadasp")
 
 In this tab you can:
 
--   Upload a **custom `roles and interactions` data frame** by csv file,
-use `;` as separator.
 -   Select the **Number of players**.
 -   Select the **Number of factions**. Select "0" if you do not want to impose this constraint.
 
