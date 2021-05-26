@@ -18,12 +18,13 @@ https://giadaspaccapanico.shinyapps.io/ww_balancer/
 ## Customizable settings:
 
 ### In the sidebar:
-- Upload a **custom `roles and interactions` dataframe** by csv file, use `;` as separator.
 - **Number of players**.
 - **Minimum and maximum number of players per faction**: write the name of the faction you want to constrain, click on "add" to add the constraint set. 0 is the default and neutral value (not applied). Write the name of the faction again and click "remove" to remove the related constraints.
 - **Balancing index**: from 0 to +Inf, close to 0 for full balancing. In case the solver cannot find feasible solutions you can increase this index. 
 
 ### In the "roles and interaction" dataframe you can:
+- Upload a **custom `roles and interactions` dataframe** by csv file, use `;` as separator.
+
 - **Edit** the cells of the dataframe directly in the Shiny app (adding or removing columns and rows is not allowed, upload your file instead).
 
 - **Download** the roles and interactions dataframe by clicking on the "csv" or "excel" buttons.
