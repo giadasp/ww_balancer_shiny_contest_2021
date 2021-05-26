@@ -1,0 +1,24 @@
+role;n;aura;mystic;faction;w_wolfs;w_village;mandatory;excluded;enemy_set_1;enemy_set_2;enemy_set_3
+Pack Leader;1;black;no;wolfs;5;0;1;;;;
+Pack wolf;1;black;no;wolfs;3;0;;;;;
+Young wolf;1;black;no;wolfs;4;0;;;;;
+Defector_wolfs;1;white;no;wolfs;1.5;0;;;;;
+Seer;1;white;yes;village;0;4;1;;;;
+Wizard;1;white;yes;village;0;3;;;;;
+Medium;1;white;yes;village;0;2;;;;;
+Witch;1;white;yes;village;0;3;;;;;
+Healer;1;white;yes;village;0;2;;;;;
+Farmer ;1;white;no;village;0;0.5;;;;;
+Hero farmer;1;white;no;village;0;2;;;;1;
+Wolf farmer;1;white;no;village;0;-2;;;;1;
+Hero farmer + Wolf farmer;2;white;no;village;0;0;;;;1;
+Innkeeper + Bard;2;white;no;village;0;3;;;1;;
+Innkeeper;1;white;no;village;0;1;;;1;;
+Bard;1;white;no;village;0;1;;;1;;
+Monk;1;white;no;village;0;1;;;;;
+Hermit;1;white;no;village;0;1;;;;;
+Priest;1;white;no;village;0;0.5;;;;;1
+Sinner;1;black;no;village;0;0.5;;;;;1
+Madman;1;white;no;village;0;1;;;;;
+Joker;1;white;no;village;0;0.5;;;;;
+Priest + Sinner;2;white;no;village;-1;2;;;;;1

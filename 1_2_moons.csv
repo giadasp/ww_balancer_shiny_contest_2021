@@ -1,0 +1,50 @@
+role;n;aura;mystic;faction;w_wolfs;w_village;w_city;w_criminals;w_lovers;w_vampire;w_lone;mandatory;excluded;enemy_set_1;enemy_set_2;enemy_set_3;enemy_set_4;enemy_set_5;enemy_set_6;enemy_set_7;enemy_set_8;enemy_set_9;friend_set_1;friend_set_2
+Pack Leader;1;black;no;wolfs;5;0;0;0;0;-0.5;-1;1;;;;;;;;;;;;
+Pack wolf;1;black;no;wolfs;3;0;0;0;0;-0.5;-1;;;;;;;;;;;;;
+Young wolf;1;black;no;wolfs;4;0;0;0;0;-0.5;-1;;;;;;;;;;;;;
+Defector_wolfs;1;white;no;wolfs;1.5;0;0;0;0;0;2;;;;;1;;;;;;;;
+Defector_lone;1;white;no;lone;1.5;0;0;0;0;0;2;;;;;1;;;;;;;;
+Outcast wolf;1;black;no;wolfs;3;0;0;0;0;-0.5;1;;;;;;;;;;;;;
+Lone wolf;1;black;no;lone;0;0;0;0;0;0;8;;;;;;;;;;;;;
+Seer;1;white;yes;village;0;4;0;0;0;0;0;1;;;;;;;;;;;;
+Wizard;1;white;yes;village;0;3;0;0;0;0;0;;;;;;;;;;;;;
+Medium;1;white;yes;village;0;2;0;0;0;0;0;;;;;;;;;;;;;
+Witch;1;white;yes;village;0;3;0;0;0;0;0;;;;;;;;;;;;;
+Healer;1;white;yes;village;0;2;0;0;0;0;0;;;;;;;;;;;;;
+Farmer ;1;white;no;village;0;0.5;0;0;0;0;0;;;;;;;;;;;;;
+Hero farmer;1;white;no;village;0;2;0;0;0;0;0;;;;1;;;;;;;;;
+Wolf farmer;1;white;no;village;0;-2;0;0;0;0;0;;;;1;;;;;;;;;
+Hero farmer - Wolf farmer;2;white;no;village;0;0;0;0;0;0;0;;;;1;;;;;;;;;
+Guard;1;white;no;village;0;1;0;-2;0;0;0;;;;;;1;;;;;;0.8;
+Other guard;1;white;no;village;0;1;0;-2;0;0;0;;;;;;1;;;;;;;
+Other other guard;1;white;no;village;0;1;0;-2;0;0;0;;;;;;;;;;;;;
+Guard+Other Guard;2;white;no;village;0;2;0;-4;0;0;0;;;;;;1;;;;;;;0.8
+Innkeeper-Bard;2;white;no;village;0;3;0;0;0;0;0;;;1;;;;;;;;;;
+Innkeeper;1;white;no;village;0;1;0;0;0;0;0;;;1;;;;;;;;;;
+Bard;1;white;no;village;0;1;0;0;0;0;0;;;1;;;;;;;;;;
+Monk;1;white;no;village;0;1;0;0;0;0;0;;;;;;;;;;;;;
+Hermit;1;white;no;village;0;1;0;0;0;0;0;;;;;;;;;;;;;
+Priest;1;white;no;village;0;1;0;0;0;0;0;;;;;;;;;;;;;
+Sinner;1;black;no;village;0;1;0;0;0;0;0;;;;;;;;;;;;;
+Madman;1;white;no;village;0;1;0;0;0;0;0;;;;;;;;;;;;;
+Joker;1;white;no;village;0;0.5;0;0;0;0;0;;;;;;;;;;;;;
+Seducer;1;black;no;city;0;1.5;2;0;0;0;0;;;;;;;;;;;;;
+Merchant;1;white;no;city;0;1.5;2;0;0;0;0;;;;;;;;;;;;;
+Swindler;1;white;no;city;0;1.5;2;0;0;0;0;;;;;;;;;;;;;
+Preacher;1;white;no;city;0;1.5;2;0;0;0;0;;;;;;;;;;;;;
+Mayor;1;white;no;city;0;1.5;2;0;0;0;0;;;;;;;;;;;;;
+Corrupt guard;1;black;no;criminals;0;0;1;4;0;0;0;;;;;;;1;;;;;0.1;
+Spy;1;white;no;criminals;0;0;1;5;0;0;0;;;;;;;;1;;;;0.1;
+Assassin;1;black;no;criminals;0;0;1;5;0;0;0;;;;;;;;;1;;;0.1;
+Thief;1;white;no;criminals;0;0;1;4;0;0;0;;;;;;;;;;1;;0.1;
+Guild master;1;white;no;criminals;0;0;1;10;0;0;0;;;;;;;;;;;1;0.1;
+Corrupt guard 2;1;black;no;criminals;0;0;1;4;0;0;0;;;;;;;1;;;;;;0.1
+Spy 2;1;white;no;criminals;0;0;1;5;0;0;0;;;;;;;;1;;;;;0.1
+Assassin 2;1;black;no;criminals;0;0;1;5;0;0;0;;;;;;;;;1;;;;0.1
+Thief 2;1;white;no;criminals;0;0;1;4;0;0;0;;;;;;;;;;1;;;0.1
+Guild master 2;1;white;no;criminals;0;0;1;10;0;0;0;;;;;;;;;;;1;;0.1
+Juliet;1;white;no;lovers;1;1;1;1;10;1;1;;;;;;;;;;;;;
+Guardian Angel;1;white;no;lovers;1;1;1;1;10;1;1;;;;;;;;;;;;;
+Vampire;1;black;no;vampire;0;0;0;0;0;7;0;;;;;;;;;;;;;
+Servant;1;white;no;vampire;0;0;0;0;0;3;0;;;;;;;;;;;;;
+Vampire hunter;1;white;no;village;0;1;0;0;0;-3;0;;;;;;;;;;;;;
